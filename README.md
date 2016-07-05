@@ -16,10 +16,10 @@ You can also create own image database in same format like imgDB (see DB/createB
 python2.7,opencv2,numpy,scipy,skimage,sqlobject
 download imgDB.db and prepImg.db from
 ```
-imgDB:
+imgDB: https://drive.google.com/open?id=0B5urs7cbv2vJRDFxNGNOaWVRSFE
 ```
 ```
-prepImg:
+prepImg: https://drive.google.com/open?id=0B5urs7cbv2vJQ0g2VjdkallSWWs
 
 ```
 add path from imgDB in DB/createDB.py file in string
