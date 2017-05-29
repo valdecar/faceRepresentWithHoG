@@ -1,0 +1,4 @@
+# paths to databases
+{'img.db': '/media/valdecar/forData/data/projects/pythonDB/img.db',
+ 'prepImg.db': '/media/valdecar/forData/data/projects/pythonDB/prepImg.db'
+}
